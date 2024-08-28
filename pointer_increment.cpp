@@ -39,3 +39,19 @@ int main(){
 
     return 0;
 }
+
+
+/*
+for integer:-
+before incrementation - 0xf6c2fffe14
+after incrementation - 0xf6c2fffe18
+67
+for float:-
+before incrementation - 0xf6c2fffe10
+after incrementation - 0xf6c2fffe14
+1.4013e-44
+for bool:-
+before incrementation - 0xf6c2fffe0f
+after incrementation - 0xf6c2fffe10
+102
+    */
