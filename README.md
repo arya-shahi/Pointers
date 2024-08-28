@@ -14,7 +14,7 @@ A pointer is a variable that stores the memory address of another variable. In C
 Syntax: datatype *pointerName;
 
 ### 2. *Memory Allocation*
-Memory allocation refers to assigning memory dynamically during runtime using functions like malloc(), calloc(), and free().
+Memory allocation refers to assigning memory dynamically during runtime using functions.
 
 ### 3. *Pointer Incrementation*
 Pointer incrementation involves moving the pointer to the next memory location, determined by the size of the data type to which the pointer points.
